@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center"> Simone Tumminelli </h1>
+<h2 align="center"> Computer Engineering Master's Degree Student </h2>
+
+![](https://komarev.com/ghpvc/?username=simotmm&color=brightgreen)
+
+- 👨‍💻 I’m currently pursuing a Master's degree in Computer Engineering at **Politecnico di Torino**
+- 🌱 I like to solve problems in efficient ways
+- 🎸 I love music, expecially if it sound [bad](https://www.youtube.com/watch?v=8FUGUaTbvE8)
+- ❓ I don't know what else write here 👍
 
 <!--
 **simotmm/simotmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
