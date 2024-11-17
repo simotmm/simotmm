@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently pursuing a Master's degree in Computer Engineering at **Politecnico di Torino**
 - 🌱 I like to solve problems in efficient ways
-- 🎸 I love music, expecially if it sound [bad](https://www.youtube.com/watch?v=8FUGUaTbvE8)
+- 🎸 I love music, expecially if it sounds [bad](https://www.youtube.com/watch?v=8FUGUaTbvE8)
 - ❓ I don't know what else write here 👍
 
 ![](https://komarev.com/ghpvc/?username=simotmm&color=brightgreen)
