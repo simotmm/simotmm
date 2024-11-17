@@ -1,5 +1,5 @@
-<h1 align="center"> Simone Tumminelli </h1>
-<h2 align="center"> Computer Engineering Master's Degree Student </h2>
+<h1> Simone Tumminelli </h1>
+<h2> Computer Engineering Master's Degree Student </h2>
 
 ![](https://komarev.com/ghpvc/?username=simotmm&color=brightgreen)
 
