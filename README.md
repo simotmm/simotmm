@@ -6,7 +6,6 @@
 - 🎸 I love playing music, expecially if it sounds [bad](https://youtu.be/91WSrwReQto)
 - ❓ I don't know what else write here 👍
 
-##
 ### Stats
 #### GitHub
 <!-- ![](https://github-readme-stats.vercel.app/api?username=simotmm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
