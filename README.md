@@ -9,7 +9,7 @@
 ### Stats
 #### GitHub
 <!-- ![](https://github-readme-stats.vercel.app/api?username=simotmm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=simotmm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=simotmm&theme=iceberg&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=simotmm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 #### LeetCode
 ![](https://leetcard.jacoblin.cool/simotmm?theme=dark&font=El%20Messiri)
