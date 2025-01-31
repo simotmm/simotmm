@@ -1,5 +1,5 @@
-<h1> Simone Tumminelli </h1>
-<h2> Computer Engineering Master's Degree Student </h2>
+# Simone Tumminelli
+## Computer Engineering Master's Degree Student
 
 - 👨‍💻 I’m currently pursuing a Master's degree in Computer Engineering at **Politecnico di Torino**
 - 🌱 I like to solve problems in efficient ways
