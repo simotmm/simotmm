@@ -5,6 +5,10 @@
 - 🌱 I like to solve problems in **efficient** ways
 - 🎸 I love **playing** music, expecially if it sounds [**bad**](https://youtu.be/91WSrwReQto)
 - ❓ **I don't know** what else write here 👍
+- ![](https://github-readme-streak-stats.herokuapp.com/?user=simotmm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=simotmm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=simotmm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=simotmm&theme=dark&hide_border=false)<br/>
 
 ### Stats
 #### GitHub
